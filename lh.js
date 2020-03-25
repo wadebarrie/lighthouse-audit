@@ -120,5 +120,5 @@ if (argv.from && argv.to) {
     );
   });
 } else {
-  throw "You haven't passed a URL to Lighthouse";
+  throw "You haven't passed a URL to Lighthouse!";
 }
